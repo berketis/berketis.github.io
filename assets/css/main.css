@@ -20,7 +20,7 @@
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  color: #aca4a4;
+  color: #515151;
   line-height: 1.75rem;
 }
 
@@ -204,7 +204,7 @@ hr {
 }
 
 .pagination-active:hover {
-  background-color: #251d1d;
+  background-color: #e0e0e0;
 }
 
 /*
